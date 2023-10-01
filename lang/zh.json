@@ -1,5 +1,5 @@
 {
-  "chat_expanded_placeholder": "`Enter` 换行, `Shirt` + `Enter` 发送",
+  "chat_expanded_placeholder": " `Shirt` + `Enter` 发送,`Enter` 换行"
   "empty_conversation": "请点击左侧对话",
   "search_placeholder": "搜索",
   "action_clear": "清空所有会话",
